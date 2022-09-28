@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sistemaauditoriotarde",
+  "private_key_id": "fc2bc229d6d46795dc9ba76de7c3d5d82d394041",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoY0zxWiC7zLiC\nYqfHrHNtO2thOb56BKn3rdq5eyMVuz98gXCsyBjQdkr+XFCVc8uu1vmRYg3VhpqX\n3+Cr2N9IMBRa4Yd2ggnUNyL1br1tfGd3EwZyad8JRfRYRiGeLPDq0vnSq1WxjO60\nFs30DNn9OMq2u2OVRp8G0iiVqQQEPPE30ZLWPFNkXn7KBrHS/6B+TuPJaudHMzLZ\nVxnuRjyCHEqq/e1qwl5hA3PdarHCJKYmFCOm9PbboInDHaXB2XHaoVhSHbYke6Kf\nXltFRT14FDCbFlbr63stMewGciH9Cn4fSQdqY3AxZKKwQNluPND40qXw8/1HyMTl\nX6OGYXDPAgMBAAECggEAKD/iuL7Kgpx/rJ2Xv76/s0CiZZGRyyJ5qdtj0dJhDkeD\nRHZK5LI3kgubC5lDn88RjTPQv/yCtuP8bKerCzih26fwLpl3U/BL8YSnOmk2x/rP\nFNGnwTNTHREPtCZZdkMEazela3affgQR6AE3JLkBHJm0ipfENLupmY3W160RdAYh\nkmsBDlpwqNV6fcDsFGsiFTgA6O2FEJngjVBaVE0/6uiyGrgtaW/Igjhh2D0ZWN0x\nvVrzuwhixcioQgsHfbo3FnQH+NLfQqMGzCnIklh3iR0GSGCES+z1xVdCVbOJkFLj\n6408g781ScYH2/P7aizvG7a5nCHbs1ZG23p3Kk/tOQKBgQD++eV48N+NrDeAuu5z\n2DT3mGol/h8adoThrSUhZFmnkTWDVWxpuU6blw48ry5n7JKflagn5bYXfQj2KrYo\nwyDI8YGH7nn8UZwNAqUzcs1cSGCSehytmj7RJ02srrID8BVa1ZRYkxmrT8DnmNii\nFxTcA2MDCm9DUGqDkVgvgTIhxQKBgQDpUi87IZFjbUXh/2k2H52zPfBUrP9j8Mw9\n1yCLnXy2rUYFHs2djDZwt9mnex7GmUYZLjuPXXfYk8M3P0ph+14XP26mZg5maTSq\n2lkEi9THSEWYR0wlNzbDdMMIuFkiUPeohYNV2M4zMF18fAUcEfpZH/mWEiuwzioK\nWW9AIXEVgwKBgQDvA15CorlM2tUkjRad7VyphGxstOx/J/6kdmRKCwGn/IzHUjpQ\nWO8BFva3mBfOP4uqoOWCkOjC1+igqaUcTN3cv9cGj1w2VGIOKB6oPcOX8Bjm9iUP\n73lXIprDdvdUjafXAEMRTMNRPW+9KiBYwX5CR8J2xT9LQIS4VHTwAxH1aQKBgE9l\nDPdlI9EelQIjZIzrU0F0GTznJXy/qvB8LPH1ZEPRUJtbcQJkfP38Qc9RARb5fzYA\nWnodhzOmjG5XVhtjaxAkIKX04n+M20QsStBWONCbUjtQP6QGVtdJ+zgTaxlXTf8F\nd7yVqw0WLym2FhMINxVu4QJlKoLelMWyyz2aY527AoGAYOQb5Zsx7Mo6idl44Gf5\n0FiKbtCEqTgK2lj5bSFH/7oQHR1vLsjJa9+/zRgB/KoByL3tV+xpmZmIc4Skojz5\nPon2JDmnv+mwjSaFSaLkmRteGCeDhbzv4WG6PAhGjPiDelAPTe1sCmklD16WghYz\nDXQuL2QB0R8adaM8o7DwLpA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8jg44@sistemaauditoriotarde.iam.gserviceaccount.com",
+  "client_id": "108989908898925194145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8jg44%40sistemaauditoriotarde.iam.gserviceaccount.com"
+}
